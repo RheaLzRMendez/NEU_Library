@@ -4,7 +4,7 @@
 [GitHub Repository](https://github.com/RheaLzRMendez/NEU-LibTrac)
 
 ## Live Demo
-[Deployed Application](https://rhealzrmendez.github.io/NEU-LibTrac/)
+[Deployed Application](https://rhealzrmendez.github.io/NEU_Library/)
 
 ## Features
 - Admin dashboard with visitor metrics and charts
